@@ -50,17 +50,33 @@ java-monitoring-and-management-console=
 java-policy-settings=
 java-visualvm=
 kde4-Help=
+kde4-KCharSelect=2014-07-01
+kde4-KFloppy=2014-07-01
 kde4-akonaditray=
+kde4-ark=2014-07-01
 kde4-dolphin=
+kde4-dragonplayer=2014-07-01
+kde4-filelight=2014-07-01
+kde4-juk=2014-07-01
+kde4-kcalc=2014-07-01
+kde4-kdf=2014-07-01
 kde4-kfind=
+kde4-kgpg=2014-07-01
 kde4-kinfocenter=
 kde4-klipper=
+kde4-kmix=2014-07-01
 kde4-knetattach=
 kde4-konqbrowser=
 kde4-konsole=
 kde4-krandrtray=
+kde4-kscd=2014-07-01
 kde4-ksysguard=
+kde4-ktimer=2014-07-01
+kde4-kwalletmanager=2014-07-01
+kde4-kwikdisk=2014-07-01
 kde4-kwrite=
+kde4-superkaramba=2014-07-01
+kde4-sweeper=2014-07-01
 kde4-systemsettings=
 libreoffice-base=
 libreoffice-calc=
@@ -159,20 +175,19 @@ hideWhenSingleDesktop=true
 Order=2
 
 [Containments][1][Applets][5]
-geometry=76,3,1402,32
+geometry=76,3,1374,32
 immutability=1
 plugin=tasks
-zvalue=1
+zvalue=2
 
 [Containments][1][Applets][5][Configuration][Launchers]
-browser=preferred://browser, , ,\s
-filemanager=preferred://filemanager, , ,\s
+Items=
 
 [Containments][1][Applets][5][LayoutInformation]
 Order=3
 
 [Containments][1][Applets][6]
-geometry=1482,3,106,32
+geometry=1454,3,134,32
 immutability=1
 plugin=systemtray
 zvalue=0
@@ -193,7 +208,7 @@ plugin=battery
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][11][PopupApplet]
-DialogHeight=127
+DialogHeight=107
 DialogWidth=296
 
 [Containments][1][Applets][6][Configuration][Applets][8]
@@ -261,3 +276,11 @@ screen=0
 wallpaperplugin=image
 wallpaperpluginmode=SingleImage
 zvalue=0
+
+[Containments][8][Wallpaper][image]
+slideTimer=10
+slidepaths=
+userswallpapers=
+wallpaper=/usr/share/wallpapers/Elarun
+wallpapercolor=0,0,0
+wallpaperposition=0

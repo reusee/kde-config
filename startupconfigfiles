@@ -43,6 +43,6 @@ kcmfonts General forceFontDPI 0
 !/usr/share/config/kcmfonts
 *
 kdeglobals Locale Language '' # trigger requesting languages from KLocale
-!/home/reus/.kde4/share/config/kdeglobals
+/home/reus/.kde4/share/config/kdeglobals
 !/usr/share/config/kdeglobals
 *

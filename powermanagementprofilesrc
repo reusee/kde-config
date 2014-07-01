@@ -1,15 +1,11 @@
 [AC]
 icon=battery-charging
 
-[AC][DPMSControl]
-idleTime=600
-
 [AC][DimDisplay]
 idleTime=300000
 
-[AC][HandleButtonEvents]
-lidAction=1
-powerButtonAction=16
+[Activities][1d44c8b2-62dc-4303-86bc-42f743e7b628]
+mode=None
 
 [Battery]
 icon=battery-060

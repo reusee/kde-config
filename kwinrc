@@ -55,7 +55,7 @@ CommandWindowWheel=Scroll
 [Plugins]
 kwin-script-tilingEnabled=false
 kwin4_effect_blurEnabled=true
-kwin4_effect_coverswitchEnabled=false
+kwin4_effect_coverswitchEnabled=true
 kwin4_effect_cubeEnabled=false
 kwin4_effect_cubeslideEnabled=false
 kwin4_effect_dashboardEnabled=true
@@ -99,7 +99,7 @@ kwin4_effect_trackmouseEnabled=false
 kwin4_effect_translucencyEnabled=true
 kwin4_effect_windowgeometryEnabled=false
 kwin4_effect_wobblywindowsEnabled=false
-kwin4_effect_zoomEnabled=true
+kwin4_effect_zoomEnabled=false
 synchronizeskipswitcherEnabled=false
 videowallEnabled=false
 

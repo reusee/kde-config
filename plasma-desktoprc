@@ -11,6 +11,9 @@ performed=/usr/share/apps/plasma-desktop/updates/addShowActivitiesManagerPlasmoi
 1=1
 8=2
 
+[setCurrent]
+__file=
+
 [stopSuppressingScreenPowerManagement]
 __file=
 cookie=-1
@@ -18,3 +21,6 @@ cookie=-1
 [stopSuppressingSleep]
 __file=
 cookie=-1
+
+[toggleActivityManager]
+__file=

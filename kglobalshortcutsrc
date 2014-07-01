@@ -33,6 +33,12 @@ repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
 show-barcode=none,none,Show Barcode...
 show-on-mouse-pos=none,none,Open Klipper at Mouse Position
 
+[kmix]
+_k_friendly_name=KMix
+decrease_volume=Volume Down,Volume Down,Decrease Volume
+increase_volume=Volume Up,Volume Up,Increase Volume
+mute=Volume Mute,Volume Mute,Mute
+
 [krunner]
 PowerDevil=none,none,Run Command (runner "PowerDevil" only)
 Run Command=Meta+O,Alt+F2,Run Command

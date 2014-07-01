@@ -1,0 +1,22 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10e2c87573000140421565500000020020008
+clientId2=10e2c87573000140421596200000020020014
+count=2
+discardCommand1[$e]=
+discardCommand2[$e]=rm,$HOME/.kde4/share/config/session/kwin_10e2c87573000140421596200000020020014_1404230090_311286
+program1=pulseaudio
+program2=/usr/bin/kwin
+restartCommand1=
+restartCommand2=/usr/bin/kwin,-session,10e2c87573000140421596200000020020014_1404230090_311286
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=reus
+userId2=reus
+wasWm1=false
+wasWm2=false

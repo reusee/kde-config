@@ -10,6 +10,11 @@ ctime=1404215365
 done=kde-4.11
 mtime=1401787936
 
+[kcalcrc.upd]
+ctime=1404228929
+done=KDE_3_2_0,KDE_4_3_0
+mtime=1393125531
+
 [kcookiescfg.upd]
 ctime=1403607897
 done=kde2.2/b1,kde3.1/cvs,kde4.10/git

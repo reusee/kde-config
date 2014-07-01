@@ -6,3 +6,6 @@ loadAll=false
 
 [KRunner][PlasmaRunnerManager]
 pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
+
+[RecentlyUsed]
+Applications=kde4-systemsettings.desktop,firefox.desktop,kde4-konsole.desktop,kde4-dolphin.desktop,xfce4-mixer.desktop

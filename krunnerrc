@@ -1,3 +1,15 @@
+[EdgePositions]
+Offset=0.5
+
+[General]
+PastQueries=Konsole,System Settings,Firefox,Dolphin,e,
+
+[Interface]
+Size=420,500
+
+[PlasmaRunnerManager]
+LaunchCounts=1 shell_e,1 services_firefox.desktop,12 services_kde4-konsole.desktop,1 services_kde4-dolphin.desktop,2 services_kde4-systemsettings.desktop
+
 [TaskDialog]
 Height 1050=995
 Width 1680=1680
