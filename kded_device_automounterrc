@@ -1,0 +1,75 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d0]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=160.0 GiB Hard Drive
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=670.0 GiB Hard Drive
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d14]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=160.0 GiB Hard Drive
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d2]
+Icon=drive-harddisk
+LastNameSeen=580.0 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d3]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=128.0 GiB Hard Drive
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d5]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=32.0 GiB Hard Drive
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d6]
+Icon=drive-harddisk
+LastNameSeen=8.0 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d7]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=16.0 GiB Hard Drive
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d8]
+Icon=drive-harddisk
+LastNameSeen=160.0 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
+Icon=drive-harddisk
+LastNameSeen=165.9 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb2]
+Icon=drive-harddisk
+LastNameSeen=128.0 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc1]
+Icon=drive-harddisk
+LastNameSeen=32.0 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdd1]
+Icon=drive-removable-media-usb-pendrive
+LastNameSeen=Kubuntu 14.04 LTS amd64
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdd2]
+Icon=drive-removable-media-usb-pendrive
+LastNameSeen=Kubuntu 14.04 LTS amd64
+LastSeenMounted=false

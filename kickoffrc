@@ -1,0 +1,8 @@
+[Favorites]
+FavoriteURLs=/usr/share/applications/kde4/systemsettings.desktop,/usr/share/applications/kde4/dolphin.desktop,/usr/share/applications/firefox.desktop,/usr/share/applications/kde4/konsole.desktop,/usr/share/applications/minecraft.desktop
+
+[KRunner]
+loadAll=false
+
+[KRunner][PlasmaRunnerManager]
+pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
